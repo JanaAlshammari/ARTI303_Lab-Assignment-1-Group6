@@ -1,2 +1,5 @@
 .venv/
 .venv
+data/flights.csv
+data/*.csv
+data/
